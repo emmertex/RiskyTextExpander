@@ -1,0 +1,8 @@
+/bin
+/include
+/lib
+/old_config_backup
+/pyvenv.cfg
+/run.sh
+*.pyc
+__pycache__/
